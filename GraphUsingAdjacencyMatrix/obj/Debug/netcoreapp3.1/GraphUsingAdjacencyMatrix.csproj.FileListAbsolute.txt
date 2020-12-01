@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\TreesAndGraphsExercises\GraphUsingAdjacencyMatrix\bin\Debug\netcoreapp3.1\GraphUsingAdjacencyMatrix.exe
+C:\Users\User\source\repos\TreesAndGraphsExercises\GraphUsingAdjacencyMatrix\bin\Debug\netcoreapp3.1\GraphUsingAdjacencyMatrix.deps.json
+C:\Users\User\source\repos\TreesAndGraphsExercises\GraphUsingAdjacencyMatrix\bin\Debug\netcoreapp3.1\GraphUsingAdjacencyMatrix.runtimeconfig.json
+C:\Users\User\source\repos\TreesAndGraphsExercises\GraphUsingAdjacencyMatrix\bin\Debug\netcoreapp3.1\GraphUsingAdjacencyMatrix.runtimeconfig.dev.json
+C:\Users\User\source\repos\TreesAndGraphsExercises\GraphUsingAdjacencyMatrix\bin\Debug\netcoreapp3.1\GraphUsingAdjacencyMatrix.dll
+C:\Users\User\source\repos\TreesAndGraphsExercises\GraphUsingAdjacencyMatrix\bin\Debug\netcoreapp3.1\GraphUsingAdjacencyMatrix.pdb
+C:\Users\User\source\repos\TreesAndGraphsExercises\GraphUsingAdjacencyMatrix\obj\Debug\netcoreapp3.1\GraphUsingAdjacencyMatrix.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TreesAndGraphsExercises\GraphUsingAdjacencyMatrix\obj\Debug\netcoreapp3.1\GraphUsingAdjacencyMatrix.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TreesAndGraphsExercises\GraphUsingAdjacencyMatrix\obj\Debug\netcoreapp3.1\GraphUsingAdjacencyMatrix.AssemblyInfo.cs
+C:\Users\User\source\repos\TreesAndGraphsExercises\GraphUsingAdjacencyMatrix\obj\Debug\netcoreapp3.1\GraphUsingAdjacencyMatrix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TreesAndGraphsExercises\GraphUsingAdjacencyMatrix\obj\Debug\netcoreapp3.1\GraphUsingAdjacencyMatrix.dll
+C:\Users\User\source\repos\TreesAndGraphsExercises\GraphUsingAdjacencyMatrix\obj\Debug\netcoreapp3.1\GraphUsingAdjacencyMatrix.pdb
+C:\Users\User\source\repos\TreesAndGraphsExercises\GraphUsingAdjacencyMatrix\obj\Debug\netcoreapp3.1\GraphUsingAdjacencyMatrix.genruntimeconfig.cache
