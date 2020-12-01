@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\TreesAndGraphsExercises\CountTheFrequencyOfANumberInATree\bin\Debug\netcoreapp3.1\CountTheFrequencyOfANumberInATree.exe
+C:\Users\User\source\repos\TreesAndGraphsExercises\CountTheFrequencyOfANumberInATree\bin\Debug\netcoreapp3.1\CountTheFrequencyOfANumberInATree.deps.json
+C:\Users\User\source\repos\TreesAndGraphsExercises\CountTheFrequencyOfANumberInATree\bin\Debug\netcoreapp3.1\CountTheFrequencyOfANumberInATree.runtimeconfig.json
+C:\Users\User\source\repos\TreesAndGraphsExercises\CountTheFrequencyOfANumberInATree\bin\Debug\netcoreapp3.1\CountTheFrequencyOfANumberInATree.runtimeconfig.dev.json
+C:\Users\User\source\repos\TreesAndGraphsExercises\CountTheFrequencyOfANumberInATree\bin\Debug\netcoreapp3.1\CountTheFrequencyOfANumberInATree.dll
+C:\Users\User\source\repos\TreesAndGraphsExercises\CountTheFrequencyOfANumberInATree\bin\Debug\netcoreapp3.1\CountTheFrequencyOfANumberInATree.pdb
+C:\Users\User\source\repos\TreesAndGraphsExercises\CountTheFrequencyOfANumberInATree\obj\Debug\netcoreapp3.1\CountTheFrequencyOfANumberInATree.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TreesAndGraphsExercises\CountTheFrequencyOfANumberInATree\obj\Debug\netcoreapp3.1\CountTheFrequencyOfANumberInATree.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TreesAndGraphsExercises\CountTheFrequencyOfANumberInATree\obj\Debug\netcoreapp3.1\CountTheFrequencyOfANumberInATree.AssemblyInfo.cs
+C:\Users\User\source\repos\TreesAndGraphsExercises\CountTheFrequencyOfANumberInATree\obj\Debug\netcoreapp3.1\CountTheFrequencyOfANumberInATree.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TreesAndGraphsExercises\CountTheFrequencyOfANumberInATree\obj\Debug\netcoreapp3.1\CountTheFrequencyOfANumberInATree.dll
+C:\Users\User\source\repos\TreesAndGraphsExercises\CountTheFrequencyOfANumberInATree\obj\Debug\netcoreapp3.1\CountTheFrequencyOfANumberInATree.pdb
+C:\Users\User\source\repos\TreesAndGraphsExercises\CountTheFrequencyOfANumberInATree\obj\Debug\netcoreapp3.1\CountTheFrequencyOfANumberInATree.genruntimeconfig.cache
